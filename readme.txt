@@ -5,3 +5,4 @@ Git tracks changes of files.
 origin.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+add merge
